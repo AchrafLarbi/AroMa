@@ -4,3 +4,5 @@ export const baseUrl = 'https://dummyjson.com/recipes'
 // // Refactored code - 6005
 
 // // Refactored code - 1099
+
+// // Refactored code - 2655
