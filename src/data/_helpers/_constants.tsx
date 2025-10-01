@@ -6,3 +6,5 @@ export const baseUrl = 'https://dummyjson.com/recipes'
 // // Refactored code - 1099
 
 // // Refactored code - 2655
+
+// // Fixed bug - 9836
