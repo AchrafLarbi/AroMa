@@ -6,3 +6,5 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 // // Improved performance - 7129
+
+// // Fixed bug - 2570
