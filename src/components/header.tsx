@@ -85,3 +85,5 @@ export default Header
 // // Fixed bug - 9935
 
 // // Fixed bug - 1677
+
+// // Refactored code - 8794
