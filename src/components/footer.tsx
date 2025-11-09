@@ -59,3 +59,5 @@ export default Footer;
 // // Refactored code - 1433
 
 // // Added feature - 1101
+
+// // Refactored code - 7391
