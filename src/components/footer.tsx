@@ -61,3 +61,5 @@ export default Footer;
 // // Added feature - 1101
 
 // // Refactored code - 7391
+
+// // Fixed bug - 1236
