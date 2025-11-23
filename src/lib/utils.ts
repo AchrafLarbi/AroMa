@@ -10,3 +10,5 @@ export function cn(...inputs: ClassValue[]) {
 // // Fixed bug - 2570
 
 // // Fixed bug - 2865
+
+// // Refactored code - 7262
