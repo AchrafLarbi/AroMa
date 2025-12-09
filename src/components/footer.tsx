@@ -65,3 +65,5 @@ export default Footer;
 // // Fixed bug - 1236
 
 // // Fixed bug - 4311
+
+// // Updated styles - 3629
